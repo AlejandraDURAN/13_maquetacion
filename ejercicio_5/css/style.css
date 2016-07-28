@@ -1,0 +1,26 @@
+.titulo{
+font-family: Verdana;
+font-size: 30px;
+margin-bottom:30px;
+
+}
+
+.flotante1{
+	
+	font-size:20px;
+	position: relative;
+	bottom: 400px;
+	left: 80px;
+}
+
+.flotante2{
+	position: relative;
+	bottom: 300px;
+	left: 80px;
+}
+
+.radius{
+	border-radius: 100%;
+
+
+}
